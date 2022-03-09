@@ -1,0 +1,12 @@
+{
+    "name": "com.markgiroux314159.chunkloadingterrain",
+    "version": "1.0.0",
+    "displayName": "Chunk Loading Terrain",
+    "description": "A simple chunk loading terrain using quads",
+    "unity": "2021.2",
+    "author": {
+        "name": "Mark Giroux",
+        "email": "mgiroux@obsglobal.com",
+        "url": ""
+    }
+}
